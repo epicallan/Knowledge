@@ -1,0 +1,3 @@
+## My Love hate Relationship with Haskell, where we are and the future.
+
+....
